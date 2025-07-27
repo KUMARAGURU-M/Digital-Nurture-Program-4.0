@@ -1,0 +1,22 @@
+.card {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+}
+
+dt {
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+dd {
+  margin-left: 35px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-weight: normal;
+}

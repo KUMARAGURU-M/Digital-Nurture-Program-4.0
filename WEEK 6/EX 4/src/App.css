@@ -1,0 +1,35 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.post-container {
+  background-color: white;
+  margin: 0 auto 20px;
+  padding: 20px;
+  width: 80%;
+  max-width: 700px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.post-container h3 {
+  color: #0077cc;
+  margin-bottom: 10px;
+}
+
+.post-container p {
+  color: #444;
+  line-height: 1.6;
+}
