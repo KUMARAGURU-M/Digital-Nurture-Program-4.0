@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 6px 14px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: aqua;
+}

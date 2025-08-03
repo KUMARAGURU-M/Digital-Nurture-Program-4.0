@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.st2, .v1, .mystyle1 {
+  padding: 10px;
+  width: 30%;
+  border-left: 4px solid green;
+}
+
+h1 {
+  font-weight: bold;
+}
